@@ -21,6 +21,7 @@
   "author": "Bong Nguyen",
   "license": "MIT",
   "devDependencies": {
+    "@semantic-release/git": "^9.0.0",
     "semantic-release": "^17.0.7"
   },
   "bugs": {

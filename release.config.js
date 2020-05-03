@@ -2,11 +2,8 @@ module.exports = {
   "plugins": [
     '@semantic-release/commit-analyzer',
     '@semantic-release/release-notes-generator',
+    '@semantic-release/git',
     '@semantic-release/npm',
-    ["@semantic-release/github", {
-      "assets": [
-        {"path": "package.json", "label": "Version bump"},
-      ]
-    }]
+    '@semantic-release/github',
   ]
 }
