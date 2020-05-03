@@ -21,11 +21,10 @@
   "author": "Bong Nguyen",
   "license": "MIT",
   "devDependencies": {
-    "@semantic-release/git": "^9.0.0",
     "semantic-release": "^17.0.7"
   },
   "bugs": {
-    "url": "https://github.com/bongnv/md-remark-loader/issues"
+    "url": "https://github.com/bongnv/md-sink-loader/issues"
   },
-  "homepage": "https://github.com/bongnv/md-remark-loader#readme"
+  "homepage": "https://github.com/bongnv/md-sink-loader#readme"
 }
