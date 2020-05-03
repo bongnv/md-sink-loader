@@ -1,10 +1,10 @@
 {
   "name": "@bongnv/md-sink-loader",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A webpack loader to sink data from processing markdown files",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "np": "np"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,6 @@
     "loader"
   ],
   "author": "Bong Nguyen",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {}
 }
